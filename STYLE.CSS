@@ -1,0 +1,58 @@
+body, .SKINS{
+ background-color: rgb(2, 26, 48);
+
+}
+
+.titulo-centralizado{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-size: 30px;
+    text-align: center;
+    list-style: none;
+}
+
+#PATROCINIO{
+    width: 500PX;
+    list-style: none;
+}
+
+#CANIVETE{
+ width: 500px;
+}
+
+.SKINS{
+    display: inline-block;
+    
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#luvas{
+    width: 400px;
+}
+.itens{
+    list-style: none;
+    display: inline-block;
+    margin: 25px;
+    align-items: center;
+}
+#insta {
+    width: 25px;
+    margin-right: 10px;
+}
+#behance{
+    width: 40px;
+}
+#logo{
+    width: 100px;
+}
+#logo{
+    width: 100px;
+display: inline-block;
+margin-left: 550px;
+margin-bottom: 20px;
+width: 200px;
+}
